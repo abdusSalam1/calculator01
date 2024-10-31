@@ -1,0 +1,19 @@
+{
+  "userName": "John Doe",
+  "userType": "EMPLOYEE",
+  "userAffiliationDate": "2024-01-01",
+  "products": [
+    {
+      "name": "Product 1",
+      "price": 50.00,
+      "category": "ELECTRONICS"
+    },
+    {
+      "name": "Product 2",
+      "price": 30.00,
+      "category": "OTHER"
+    }
+  ],
+  "targetCurrency": "USD",
+  "originalCurrency": "EUR"
+}
